@@ -23,3 +23,4 @@ D:\Documents\Career\My Projects\Monty Hall Paradox Back End\montyhall\obj\Debug\
 D:\Documents\Career\My Projects\Monty Hall Paradox Back End\montyhall\obj\Debug\net8.0\montyhall.pdb
 D:\Documents\Career\My Projects\Monty Hall Paradox Back End\montyhall\obj\Debug\net8.0\montyhall.genruntimeconfig.cache
 D:\Documents\Career\My Projects\Monty Hall Paradox Back End\montyhall\obj\Debug\net8.0\ref\montyhall.dll
+D:\Documents\Career\My Projects\Monty Hall Paradox Back End\montyhall\obj\Debug\net8.0\montyhall.sourcelink.json
